@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+.e{
+    color: yellow ;
+
+}
